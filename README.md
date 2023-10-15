@@ -5,3 +5,6 @@ How to play this game:
 1. Create a Replit Account
 2. Once you created it, go to your search bar and type in (https://replit.com/new?tab=github)
 3. Copy the Repository Supplies and Enjoy the Game!
+
+Warning!
+        This game is still in progress in organizing and coding! So stay tuned for updates!
